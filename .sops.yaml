@@ -1,0 +1,3 @@
+# creation rules are evaluated sequentially, the first match wins
+creation_rules:
+    - age: 'age1n7tynp3z3362wgkew2he3yvguxrn0d95t7d9a4awt7autfyj434slq0p47'
